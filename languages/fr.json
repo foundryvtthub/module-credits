@@ -159,7 +159,7 @@
 					"activate": "Activer"
 				},
 				"buttons": {
-					"create": "Créer un nouveau réglage"
+					"create": "Créer un nouveau réglage prédéfini"
 				},
 				"info": {
 					"description": "Modules en réglage <strong>{name}</strong>.",
